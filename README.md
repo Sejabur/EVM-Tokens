@@ -4,11 +4,11 @@ A curated archive of EVM-compatible taxed token smart contracts developed for va
 
 ---
 
-## 📖 Backstory & Context
+## Backstory & Context
 
 Having served **100+ clients** across **Fiverr and Upwork** since 2021, these files represent a historical archive of custom-tailored Solidity smart contracts. After unfortunately losing access to the primary development drive, these few files were successfully recovered from secondary backups.
 
-> ⚠️ **Disclaimer & Archival Notice**
+ **Disclaimer & Archival Notice**
 > Because these files are recovered from legacy backups, they may not represent the absolute final, production-ready, or bug-free versions deployed on mainnet. They are provided "as-is" for educational, reference, and archival purposes. Use them in production environments at your own risk.
 
 ---
@@ -28,7 +28,7 @@ This repository contains a variety of custom ERC-20 / BEP-20 implementations uti
 
 ---
 
-## 🔒 Security & Best Practices
+## Security & Best Practices
 
 If you intend to reference or redeploy any portion of these contracts, please ensure you implement modern Web3 security protocols:
 
@@ -39,6 +39,6 @@ If you intend to reference or redeploy any portion of these contracts, please en
 
 ---
 
-## 📄 License
+## License
 
 This repository is provided as an open-source archive. Please check individual Solidity files for specific SPDX License Identifiers.
