@@ -6,7 +6,7 @@ A curated archive of EVM-compatible taxed token smart contracts developed for va
 
 ## 📖 Backstory & Context
 
-Having served **100+ clients** across **Fiverr and Upwork** since 2021, these files represent a historical archive of custom-tailored Solidity smart contracts. After unfortunately losing access to the primary development drive, these files were successfully recovered from secondary backups.
+Having served **100+ clients** across **Fiverr and Upwork** since 2021, these files represent a historical archive of custom-tailored Solidity smart contracts. After unfortunately losing access to the primary development drive, these few files were successfully recovered from secondary backups.
 
 > ⚠️ **Disclaimer & Archival Notice**
 > Because these files are recovered from legacy backups, they may not represent the absolute final, production-ready, or bug-free versions deployed on mainnet. They are provided "as-is" for educational, reference, and archival purposes. Use them in production environments at your own risk.
